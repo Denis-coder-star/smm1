@@ -1,0 +1,16 @@
+.dropdown-country-active {
+	display: block;
+}
+
+.russia-block-active {
+  background: #4D6891;
+  border-radius: 5px 5px 0 0 !important;
+}
+
+.img-pass {
+	display: none;
+}
+
+.img-active {
+	display: block !important;
+}
